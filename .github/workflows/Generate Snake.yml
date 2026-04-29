@@ -31,3 +31,7 @@ jobs:
         with:
           commit_message: 'Generate Contribution Snake'
           branch: main
+          author_name: 'GitHub Action Bot'
+          author_email: 'actions-bot@noreply.local'
+          committer_name: 'GitHub Action Bot'
+          committer_email: 'actions-bot@noreply.local'
