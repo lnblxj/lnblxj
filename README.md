@@ -2,4 +2,4 @@
 
 ***
 
-![](https://raw.githubusercontent.com/lnblxj/lnblxj/main/assets/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/lnblxj/lnblxj/output/github-contribution-grid-snake.svg)
